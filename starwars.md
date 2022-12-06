@@ -1,11 +1,12 @@
 I am a fan of many things. Here are some of my favorites
 
+<img src="starWars.jpg" width="400">
 
 Star Wars is a movie franchise created by George Lucas. It began with the release of the 1977 film Star Wars (later retitled Star Wars: Episode IV – A New Hope), which became a worldwide pop culture phenomenon. It was followed by the successful sequels The Empire Strikes Back (1980) and Return of the Jedi
 
 My favorite Star Wars movie is Return of the Jedi.
 
-<img src="starWars.jpg" width="400">
+
 
 Harry Potter is a book series written by J.K. Rowling. The series follows the adventures of a young wizard, Harry Potter, as he navigates his way through life at Hogwarts School of Witchcraft and Wizardry, battles the evil Lord Voldemort, and tries to uncover the truth about his family.
 
