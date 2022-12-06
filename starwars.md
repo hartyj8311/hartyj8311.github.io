@@ -2,6 +2,7 @@ I am a fan of many things. Here are some of my favorites
 
 
 Star Wars is a movie franchise created by George Lucas. It began with the release of the 1977 film Star Wars (later retitled Star Wars: Episode IV – A New Hope), which became a worldwide pop culture phenomenon. It was followed by the successful sequels The Empire Strikes Back (1980) and Return of the Jedi
+
 My favorite Star Wars movie is Return of the Jedi.
 
 <img src="starWars.jpg" width="400">
