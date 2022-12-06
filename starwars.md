@@ -4,6 +4,8 @@ I am a fan of many things. Here are some of my favorites
 Star Wars is a movie franchise created by George Lucas. It began with the release of the 1977 film Star Wars (later retitled Star Wars: Episode IV – A New Hope), which became a worldwide pop culture phenomenon. It was followed by the successful sequels The Empire Strikes Back (1980) and Return of the Jedi
 My favorite Star Wars movie is Return of the Jedi.
 
+<img src="starWars.jpg" width="400">
+
 Harry Potter is a book series written by J.K. Rowling. The series follows the adventures of a young wizard, Harry Potter, as he navigates his way through life at Hogwarts School of Witchcraft and Wizardry, battles the evil Lord Voldemort, and tries to uncover the truth about his family.
 
 Batman is a superhero who appears in comic books published by DC Comics. Batman was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939. Batman is a wealthy American playboy, philanthropist, and owner of Wayne Enterprises. He is also the secret identity of Bruce Wayne
