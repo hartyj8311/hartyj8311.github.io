@@ -1,3 +1,4 @@
 # Home page
 
-<a href="starwars.html">Star Wars</a>
+<a href="home.html">Star Wars</a>
+<a href="about.html">Star Wars</a>
