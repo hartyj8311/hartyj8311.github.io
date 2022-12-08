@@ -1,4 +1,4 @@
-I am a fan of many things. Here are some of my favorites
+I am a fan of many things. Here are three of my favorites
 
 <img src="starWars.jpg" width="400">
 
@@ -8,9 +8,6 @@ Star Wars is a science fiction media franchise created by George Lucas. It began
 
 My favorite Star Wars movie is Return of the Jedi. Return of the Jedi is a 1983 American epic space-opera film directed by Richard Marquand. It is the third installment of the Star Wars franchise and the final installment of the original Star Wars trilogy. The film takes place one year after The Empire Strikes Back and follows the Rebel Alliance's attempt to free Han Solo from the crime lord Jabba the Hutt. The film features the return of Mark Hamill, Harrison Ford, and Carrie Fisher as Luke Skywalker, Han Solo, and Princess Leia Organa, respectively. In addition, it features the last appearances of actors Peter Mayhew, Anthony Daniels, and Kenny Baker as Chewbacca, C-3PO, and R2-D2, respectively.
 
-Harry Potter is a book series written by J.K. Rowling. The series follows the adventures of a young wizard, Harry Potter, as he navigates his way through life at Hogwarts School of Witchcraft and Wizardry, battles the evil Lord Voldemort, and tries to uncover the truth about his family.
-
-Batman is a superhero who appears in comic books published by DC Comics. Batman was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939. Batman is a wealthy American playboy, philanthropist, and owner of Wayne Enterprises. He is also the secret identity of Bruce Wayne
 
 Star Trek is an American science fiction television series created by Gene Roddenberry. The first television series, simply called Star Trek and now referred to as "The Original Series", debuted in 1966 and aired for three seasons on NBC.
 Star Trek: The Next Generation is an American science fiction television series created by Gene Roddenberry as part of the Star Trek franchise. The series originally aired from 1987 to 1994 and follows the adventures of the crew of the USS Enterprise-D.
