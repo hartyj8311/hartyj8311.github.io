@@ -12,9 +12,12 @@ My favorite Star Wars movie is Return of the Jedi. Return of the Jedi is a 1983 
 
 Star Trek is an American science fiction television series created by Gene Roddenberry. The first television series, simply called Star Trek and now referred to as "The Original Series", debuted in 1966 and aired for three seasons on NBC.
 
-<img src="starTrekTNG.jpg" width="400"> <img src="starTrekFC1.jpg" width="400">
+<img src="starTrekTNG.jpg" width="400"> 
 
 Star Trek: The Next Generation is an American science fiction television series created by Gene Roddenberry as part of the Star Trek franchise. The series originally aired from 1987 to 1994 and follows the adventures of the crew of the USS Enterprise-D.
+
+<img src="starTrekFC1.jpg" width="400">
+
 My favorite Star Trek movie is Star Trek: First Contact.
 
 Role-playing games are a type of game in which players assume the roles of characters in a fictional setting. Players take on the roles of these characters and interact with each other and the world around them to create a story. Role-playing games can be played in person or online.
