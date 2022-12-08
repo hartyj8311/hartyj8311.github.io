@@ -1,6 +1,6 @@
 # Home page
 
-<a href="index.html">Home</a>
+<a href="index.html">Home</a> | 
 <a href="about.html">About Me</a>
 
 I am a fan of many things. Here are three of my favorites
